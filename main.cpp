@@ -1,7 +1,7 @@
 
 int main()
 {
+    int x;
 
-
-    return 0;
+    return 1;
 }
