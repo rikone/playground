@@ -6,6 +6,6 @@ int main()
     int z;
 
 
-    return 1;
+    return 10;
 
 }
