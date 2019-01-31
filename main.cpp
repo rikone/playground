@@ -8,6 +8,7 @@ int main()
     int w;
 
     float f;
+    double d;
 
     return 1;
 }
