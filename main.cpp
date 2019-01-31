@@ -7,5 +7,7 @@ int main()
     int q;
     int w;
 
+    float f;
+
     return 1;
 }
