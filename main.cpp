@@ -5,7 +5,7 @@ int main()
     int y;
     int z;
     int q;
-    int w;
+    int ;
 
     float ff;
     double d;
