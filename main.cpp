@@ -5,6 +5,7 @@ int main()
     int y;
     int z;
     int q;
+    int w;
 
     return 1;
 }
