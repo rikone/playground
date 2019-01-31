@@ -8,7 +8,7 @@ int main()
     int w;
 
     float ff;
-    double dd;
+    double d;
 
     return 1;
 }
