@@ -1,5 +1,6 @@
 
 void fun();
+void Fun();
 
 int main()
 {
