@@ -1,4 +1,6 @@
 
+void fun();
+
 int main()
 {
     int x;
