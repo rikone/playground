@@ -2,6 +2,7 @@
 void fun();
 void Fun();
 
+
 int main()
 {
     int x;
