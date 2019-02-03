@@ -15,5 +15,5 @@ int main()
     float ff;
     double d;
 
-    return 1;
+    return 2;
 }
