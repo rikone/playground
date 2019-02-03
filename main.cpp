@@ -9,7 +9,7 @@ int main()
     int y;
     int z;
     int q;
-    int ;
+    int a;
 
     float ff;
     double d;
