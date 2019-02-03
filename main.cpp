@@ -7,7 +7,6 @@ void function2();
 
 int main()
 {
-    int x;
     int y;
     int z;
     int q;
