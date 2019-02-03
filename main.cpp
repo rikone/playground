@@ -12,7 +12,6 @@ int main()
     int z;
     int q;
     int a;
-
     float ff;
     double d;
 
