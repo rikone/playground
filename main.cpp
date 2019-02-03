@@ -1,3 +1,5 @@
+#include <iostream>
+
 void fun();
 void Fun();
 
