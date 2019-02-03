@@ -2,6 +2,8 @@
 
 void fun();
 void Fun();
+void function();
+void function2();
 
 int main()
 {
