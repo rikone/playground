@@ -8,6 +8,7 @@ void function2();
 
 int main()
 {
+
     int y;
     int z;
     int q;
